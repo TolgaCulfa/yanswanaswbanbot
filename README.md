@@ -3,6 +3,6 @@ Merhabalar Öncelikle Altyapımızı Kullandığın İçin Teşekkürler Basit B
 .env'deki Boş Bırakılan Yerleri Doldurunuz 
 
 sonra `npm install` Bu Komut Tüm Gerekli Modulleri İndirecektir
-Botunuzu Başlatmak İçin `node index.js` Yazarak Botunuz Bağlayacaktır
+Botunuzu Başlatmak İçin `node index.js` Yazarak Botunuz Başlatılacaktır
 
 İzinsiz Paylaşılması Kesinlikle Yasaktır
